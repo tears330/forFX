@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tears330/forFX/issues"
   },
-  "homepage": "https://github.com/tears330/forFX#readme"
+  "homepage": "https://github.com/tears330/forFX#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0"
+  }
 }
